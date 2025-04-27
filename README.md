@@ -27,3 +27,5 @@
 |     Bare Metal (CPU)      |<br>
 +--------------------------+ <br>
 </div>
+
+updates : -> BareBone complete { bare metal , bootloader, kernel Interface}
